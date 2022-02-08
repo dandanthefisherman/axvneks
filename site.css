@@ -1,0 +1,52 @@
+
+    @import url('http://fonts.cdnfonts.com/css/alpha');
+    
+    body {
+      background-image: url('rugbyposts.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      background-color: rgba(7, 200, 0, 0.884); /* Tint color */
+      background-blend-mode: multiply;
+     
+    }
+    .bgred {background: black;}
+    .img-responsive { 
+        height: 40px;
+    }
+
+    .nav-link {
+color: rgb(255, 94, 0);
+
+}
+.navbar .dropdown-menu{
+    background-color:black;
+ 
+  }
+
+
+  .navbar .dropdown-item{
+    
+    color: rgb(255, 94, 0);
+  }
+
+.header-content h1,h2,h3
+{
+    text-shadow: 2px 2px 5px #171717;
+    font-size: 3rem;
+    color: #dedede;
+    text-transform: uppercase;
+    line-height: 3rem;
+    margin-bottom: 1rem;
+    font-family: 'Alpha','Audiowide', serif;
+    font-weight: 500;
+}
+
+h3 span{ 
+    text-align: center; 
+    background-color:rgb(255, 94, 0); 
+    color:black;
+}
+
+
+
